@@ -1,0 +1,1 @@
+This repository contains my Excel assignments completed as part of the Data Analyst program with ExcelR. These assignments demonstrate various data analysis techniques, functions such as lookup, Index&Match, Macros as well as Visual Basic Analysis(VBA)
